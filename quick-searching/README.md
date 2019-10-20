@@ -60,5 +60,9 @@ limitations under the License.
 ///////////////////////////////////////////////////////////
 
 FOR Running "Quick Searching" Web App:
+
 clone the project from repository https://github.com/lenadgit/nasa-spaceapp-challenge/tree/master/quick-searching
-open the file index.html in a folder "examples"
+
+open the file index.html in a folder "examples".
+
+Demo and Description - https://2019.spaceappschallenge.org/challenges/living-our-world/show-me-data/teams/quick-searching/project
