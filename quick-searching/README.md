@@ -60,5 +60,5 @@ limitations under the License.
 ///////////////////////////////////////////////////////////
 
 FOR Running "Quick Searching" Web App:
-clone the project from repository in a Project Details in a tab Updates, choose a tab Code Snippets
+clone the project from repository https://github.com/lenadgit/nasa-spaceapp-challenge/tree/master/quick-searching
 open the file index.html in a folder "examples"
