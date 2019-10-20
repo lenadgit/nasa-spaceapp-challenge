@@ -1,0 +1,29 @@
+.point {
+	position: absolute;
+	margin-top: 425px;
+	margin-left: 420px;
+	z-index: 100;
+	width: 5px;
+	height: 5px;
+	color: #000;
+	color: red;
+	font-weight: 900;
+	background: red;
+}
+
+.bg {
+	background-image: url('img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
+}
+
+.h1 {
+	color: #fff;
+	text-shadow: 0px 0px 6px rgba(255,255,255,0.9);	
+}
+
+h4 {
+	color: #fff;
+}
